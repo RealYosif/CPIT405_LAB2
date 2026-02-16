@@ -1,0 +1,9 @@
+.kau_image {
+    border-top: 30px skyblue;
+    border-left: 30px #ffefd5;
+    border-right: 30px lightpink;
+    border-bottom: 30px lightgreen;
+    /*border-radius: 20px;*/
+    border-style: solid;
+    display: inline-block;
+}
